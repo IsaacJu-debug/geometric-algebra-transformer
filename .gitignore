@@ -9,3 +9,7 @@
 *.py[cod]
 
 /tmp/
+
+.vscode/
+build/
+log
